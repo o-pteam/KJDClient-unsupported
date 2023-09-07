@@ -1,0 +1,11 @@
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\bin\Debug\KJDClient.exe.config
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\bin\Debug\KJDClient.exe
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\bin\Debug\KJDClient.pdb
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\obj\Debug\KJDClient.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\obj\Debug\KJDClient.Form1.resources
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\obj\Debug\KJDClient.Form2.resources
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\obj\Debug\KJDClient.Properties.Resources.resources
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\obj\Debug\KJDClient.csproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\obj\Debug\KJDClient.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\obj\Debug\KJDClient.exe
+C:\Users\Gamer\source\repos\KJDClient\KJDClient\obj\Debug\KJDClient.pdb
